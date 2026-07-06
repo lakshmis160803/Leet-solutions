@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/lakshmis160803/Leet-solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/lakshmis160803/Leet-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
